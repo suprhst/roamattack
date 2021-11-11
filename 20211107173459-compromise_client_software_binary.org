@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       22f3258b-afee-40c6-a63d-25a508b1fd99
+:END:
+#+title: Compromise Client Software Binary
+

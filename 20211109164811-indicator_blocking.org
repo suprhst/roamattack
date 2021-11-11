@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2b3b7405-933a-4393-8433-61605c01e216
+:END:
+#+title: Indicator Blocking 
+

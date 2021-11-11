@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ce93af96-d11d-4652-adc0-f0f5b953d3f7
+:END:
+#+title: Hijack Execution FloW
++ [[id:54b3d4ed-ae53-4232-b959-5b7154277826][DLL Search Order HijackinG]]
++ [[id:6ee50449-8bed-42b7-95d3-34abda4d4c49][DLL Side-LoadinG]]
++ [[id:a7d9fff6-f82f-430c-9984-9fa7c9f3f325][Dylib HijackinG]]
++ [[id:fdad6060-fc61-490a-a48a-7a468927c9f3][Executable Installer File Permissions WeaknesS]]
++ [[id:637bc735-d5aa-49e4-bdfc-6d48b72dcec6][Dynamic Linker HijackinG]]
++ [[id:0eea91f3-7d0e-4eb2-95a5-6ffc41bdccf2][Path Interception by PATH Environment VariablE]]
++ [[id:61330003-e9e4-435c-96e6-5e1053f188b2][Path Interception by Search Order HijackinG]]
++ [[id:437f2b30-837d-4b3e-9850-52c76803ed1f][Path Interception by Unquoted PatH]]
++ [[id:a76393ad-7c02-4228-b0e3-a6c3ae59c1cb][Services File Permissions WeaknesS]]
++ [[id:cc133655-80f1-419b-bf62-1c33f9964fee][Services Registry Permissions WeaknesS]]
++ [[id:13383465-a46e-4961-8672-833b87011aca][COR_PROFILEr]]
+

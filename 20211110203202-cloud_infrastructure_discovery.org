@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       08c7afa1-8dd8-4d34-80dd-e13ad773dfbb
+:END:
+#+title: Cloud Infrastructure Discovery 
+

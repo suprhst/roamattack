@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fd475c2e-6d1d-403f-8c2b-1e67b65e4d44
+:END:
+#+title: Disable or Modify Tools 
+

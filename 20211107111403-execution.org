@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1885e4f5-8dd8-43df-a2a0-c39a0639a4ad
+:END:
+#+title: Execution
++ [[id:31f0f03b-ff83-4247-9d82-5058e32e58cb][Command & Scripting Interpreter]]
++ [[id:0b4051bf-1a07-420c-b7ea-9b3f716dc28c][Container Administration Command]]
++ [[id:de94c383-d7d4-4dc8-85c9-313586abdf4a][Deploy Container]]
++ [[id:abc4309d-7d34-4258-966f-cd146ab5f61e][Exploitation For Client Execution]]
++ [[id:d2353047-24d6-42ae-95b9-2d33daa0468c][Inter-Process Communication]]
++ [[id:b198030c-dca3-459b-80d9-3243af7de92d][Native API]]
++ [[id:3a329e67-115b-465c-8a68-5d83e85ade9d][Scheduled task/job]]
++ [[id:f38b509d-7a42-4fe4-923c-3f7684b42b79][Shared Modules]]
++ [[id:dd8eabab-3819-4bd9-8247-709eb74b508b][Software Deployment Tools]]
++ [[id:4f2fec32-fb69-4cef-b397-e1455834d12b][System Services]]
++ [[id:aaafad32-164d-40e0-b31d-7630494f5d12][User Execution]]
++ [[id:df7835dd-a081-4c7b-8348-0d9ca364dd06][Windows Management Instrumentation]]

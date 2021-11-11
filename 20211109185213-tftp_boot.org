@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0e544c13-c5b6-495c-8cce-927f57f455e8
+:END:
+#+title: TFTP BooT
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       411f4a86-40e1-405d-88ab-f8792ae1ea26
+:END:
+#+title: Disable Cloud Logs 
+

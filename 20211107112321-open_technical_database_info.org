@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a85b3e9a-7048-42c7-a6f2-078482a5391f
+:END:
+#+title: Open Technical Database Info
++ [[id:ce327670-111c-44b2-9d73-40b1670bb3a0][DNS/Passive DNS]]
++ [[id:14908b14-9c16-4faf-a2b6-10df5cf57645][WHOIS]]
++ [[id:9162a1bc-c8da-4fd9-a6b6-15279a5672d8][Digital Certificates]]
++ [[id:c45dc3bf-d369-4431-a0cc-684b48b5c32b][CDNs]]
++ [[id:344bd23a-eb96-4570-a114-43827278c662][Search Databases]]

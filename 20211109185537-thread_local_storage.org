@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       975b342c-c51e-41d4-9b02-dd6c40d6f36f
+:END:
+#+title: Thread Local StoragE
+

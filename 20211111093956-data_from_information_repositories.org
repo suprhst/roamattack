@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       916444b4-6b55-43d6-a071-1aceabcc746e
+:END:
+#+title: Data from Information Repositories 
++ [[id:abb1219b-8414-41b7-afa2-c7136b6f5331][Confluence]]
++ [[id:4a645bfb-ca71-4805-822d-4142628ba7a2][Sharepoint]]
++ [[id:732e8d34-b2e0-4a35-813a-0d715c17e84e][Code Repositories]]
+

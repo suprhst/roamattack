@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6ba05e2a-82b5-47fb-bb68-27563598070b
+:END:
+#+title: Remote ServiceS
++ [[id:4f65c28a-b771-40f1-9804-c01eecd992a0][Remote Desktop Protocol]]
++ [[id:62beb120-bf86-4a36-974f-50042084f671][SMB/Windows Admin Shares]]
++ [[id:afde0b28-26b0-45be-a65b-a6b67b89be70][Distributed Component Object Model]]
++ [[id:514267b9-ceeb-48ff-9974-c47c6c4dc48e][SSH]]
++ [[id:8e404a90-a7d3-4f26-b044-2a6fb3ad6faa][VNC]]
++ [[id:41e0f898-0eca-486c-99f5-cd31c257ac72][Windows Remote Management]]

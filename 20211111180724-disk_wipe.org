@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       b8960fb1-00c3-4ae0-8a86-6e448972ea63
+:END:
+#+title: Disk Wipe 
++ [[id:f5f4c1b3-38fa-41e6-ade4-3c2c84f18c09][Disk Content Wipe]]
++ [[id:5ceaa236-349a-4352-ab5b-74cdde6b15ac][Disk Structure Wipe]]

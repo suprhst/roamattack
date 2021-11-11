@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8ec65ea5-67ae-4d7f-9718-394903ca1876
+:END:
+#+title: Component Firmware
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       890c9d9b-b463-4e43-a920-e8952b48ab40
+:END:
+#+title: Exfiltration Over Web Service 
++ [[id:99005222-3626-4d55-8d30-c24125856acd][Exfiltration to Code Repository]]
++ [[id:8afe3f4e-fae6-42af-b784-746dbad6c98d][Exfiltration to Cloud Storage]]

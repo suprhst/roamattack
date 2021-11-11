@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       82d246b6-493f-4f0e-85f1-326e0b3f02b6
+:END:
+#+title:        Network Device Configuration Dump 
+

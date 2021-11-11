@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       536342ce-e56f-40e9-ab81-5ef8928b8283
+:END:
+#+title: Network Device Authentication 
+

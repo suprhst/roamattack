@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a00267e5-5639-450b-bb7c-0275550db8e0
+:END:
+#+title: Stage Capabilities
++ [[id:f5769671-f2b0-4447-a068-aea872f65b92][Upload Malware]]
++ [[id:6fa24610-b507-4ef6-8486-f0e65d506246][Update Tool]]
++ [[id:a480a1dd-abdd-4a13-91ea-111752637501][Install Digital Certificates]]
++ [[id:b4e6b97c-9e25-4b4d-8c1a-f6fdcfd99ada][Drive by target]]
++ [[id:090d6aa5-e3a0-491e-af31-b474e3022c9d][Link Target]]

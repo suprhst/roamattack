@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b6106899-b4b4-4d9c-9799-05ebfe78cf92
+:END:
+#+title: Exfiltration Over C2 Channel 
+

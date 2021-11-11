@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       34678b06-1283-4c27-8d78-674e57454c57
+:END:
+#+title:        Masquerading 
++ [[id:dfd741e0-2f75-41ba-8d6c-a2a821aa7b28][Invalid Code Signature]]
++ [[id:7e736105-4491-424c-aee2-0a5eba60c831][Right-to-Left Override]]
++ [[id:119f81ee-31fe-4f5e-b017-41597d3fb26f][Rename System Utilities]]
++ [[id:9b4dc507-81df-4923-88ab-fe5e36f03cbb][Masquerade Task or Service]]
++ [[id:88455b83-a155-430a-80a3-f59d649a44e9][Match Legitimate Name or Location]]
++ [[id:b98550ca-7ab5-49a5-bd7c-bbc6883a1ff7][Space after Filename]]
++ [[id:63c78412-4583-45d4-8ad9-7f901f016e54][Double File Extension]]
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a9e18294-9ccb-4b97-853d-731e50fc3528
+:END:
+#+title: Data from Local System 
+

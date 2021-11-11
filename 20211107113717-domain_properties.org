@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       485e8802-e187-439a-bae1-43e1d7d96eb7
+:END:
+#+title: Domain Properties
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       52d88341-f7e1-4bc2-a400-68214e7c3299
+:END:
+#+title: One-Way Communication 
+

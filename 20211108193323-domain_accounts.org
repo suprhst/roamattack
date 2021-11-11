@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       aa914fb9-14a7-4d55-8c4d-4ee47dd05f11
+:END:
+#+title: Domain AccountS
+

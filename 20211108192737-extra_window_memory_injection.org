@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       054e997b-d1d6-4914-ad3e-75276d072b83
+:END:
+#+title: Extra Window Memory Injection 
+

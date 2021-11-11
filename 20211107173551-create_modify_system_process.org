@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0063edf6-772c-4448-8e12-b51e072f5de6
+:END:
+#+title: Create / modify system process
++ [[id:adac1608-e7e9-4624-abb4-dba5133b5443][Launch Agent]]
++ [[id:c8246014-92fa-4bce-8cac-ab987c607385][Systemd Service]]
++ [[id:21479bbc-9123-427d-b892-2357ad0573e0][Windows Service]]
++ [[id:708f8f6a-d79e-40d3-a55b-dfbc04fec26f][Launch Daemon]]

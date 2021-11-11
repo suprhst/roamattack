@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c7e79ce1-5f7c-424f-88ef-042f5dfb918f
+:END:
+#+title: Services Registry Permissions WeakneSS
+

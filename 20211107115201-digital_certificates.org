@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9162a1bc-c8da-4fd9-a6b6-15279a5672d8
+:END:
+#+title: Digital Certificates
+

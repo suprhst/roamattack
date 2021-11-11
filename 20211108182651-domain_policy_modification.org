@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2b72071c-406c-42f5-b7ff-54fdfdbb632f
+:END:
+#+title: Domain Policy Modification 
++ [[id:bb337fe3-df23-409b-b790-0a2451cc7391][Group Policy Modification]]
++ [[id:04321b6d-0dff-41ed-9e80-85b9a048776b][Domain Trust Modification]]

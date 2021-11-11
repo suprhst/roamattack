@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c326e5ad-c2ca-40e9-b999-a96798e01780
+:END:
+#+title: Impact
++ [[id:b16bb5e6-93af-485e-b55d-16cc49fbdde0][Account Access Removal]]
++ [[id:e000ed76-cb09-4ee7-ad5a-6e13d8078f80][Data Destruction]]
++ [[id:d4e03fa4-c0bc-4100-841c-64ebf5ae1b66][Data Encrypted for Impact]]
++ [[id:337b707c-91e1-44bc-9d46-eaa9517c29a0][Data Manipulation]]
++ [[id:cda2493e-2833-4b87-9a31-8cee7a41ffde][Defacement]]
++ [[id:b8960fb1-00c3-4ae0-8a86-6e448972ea63][Disk Wipe]]
++ [[id:20321015-747a-45f6-b543-3ae1b9df70ac][Endpoint Denial of Service]]
++ [[id:c284c9e2-f2ae-4080-a54d-2c0883e0b716][Firmware Corruption]]
++ [[id:06365e90-aa14-4043-bbab-6348a176dd78][Inhibit System Recovery]]
++ [[id:2ae16121-c1bb-451a-b121-a871800864a2][Network Denial of Service]]
++ [[id:a68bc0a1-f84c-4c68-a758-c98955a0bc98][Resource Hijacking]]
++ [[id:33ebb52a-bf2c-4072-a756-f71785eec314][Service Stop]]
++ [[id:5ea25012-a3db-4f6d-bec7-de0cebfccde9][System Shutdown/Reboot]]
+

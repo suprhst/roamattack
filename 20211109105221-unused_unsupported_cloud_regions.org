@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3264b35f-f8c9-4417-8aeb-fb9fee557e07
+:END:
+#+title: Unused/Unsupported Cloud Regions 
+

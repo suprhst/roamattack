@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       5d07f348-b2b3-4bdf-a48e-f7dba471b8ba
+:END:
+#+title: Boot or Logon Initialization Scripts 
++ [[id:5a92206e-3d58-4ab2-9543-33ed877881c0][Logon ScripT (Windows)]] 
++ [[id:7efcf321-051c-46d7-992d-41d51aa3d3f3][Logon ScripT (Mac)]]
++ [[id:8d079dcd-ebfd-499b-88fa-426e6857e1df][Network Logon ScripT]]
++ [[id:5e6a229e-9c18-409a-ae75-f9de59156e39][RC ScriptS]]
++ [[id:7372542d-2f90-4898-ab83-7543d37a2c77][Startup ItemS]]

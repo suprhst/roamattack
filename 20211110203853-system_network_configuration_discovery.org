@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4a977f90-6f66-4aea-a9e7-cb58880dec6c
+:END:
+#+title: System Network Configuration Discovery 
++ [[id:525db997-192c-4a83-859f-346db3d4bf88][Internet Connection Discovery]]

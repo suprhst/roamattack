@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f44db2fe-2ad3-479a-96e9-719f0f50c587
+:END:
+#+title: Path Interception by PATH Environment Variable 
+

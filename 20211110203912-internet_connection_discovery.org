@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       525db997-192c-4a83-859f-346db3d4bf88
+:END:
+#+title: Internet Connection Discovery 
+

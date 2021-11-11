@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fe1037b4-e52b-4a57-8558-fc396b5c650b
+:END:
+#+title: Indicator Removal from Tools 
+

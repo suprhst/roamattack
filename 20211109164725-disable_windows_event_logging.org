@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c8fc8ff0-c4dc-40f9-8ee0-1097df2fdaaf
+:END:
+#+title: Disable Windows Event Logging 
+

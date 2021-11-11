@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1fa9fd52-3cc8-4b19-8669-5ad7c333bc4f
+:END:
+#+title: Transmitted Data Manipulation 
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2b1cab8e-e3c4-4d7f-b527-c0dbb59c5f6b
+:END:
+#+title: Breach Assesment
+* Initial report of breach occured on <2021-11-07 Sun>
+  + [[id:ca400107-8a06-4941-a3ca-00dc42eeed8f][Reconissance]]
+  + [[id:6c9fd223-62e9-4e2e-9dd6-4f7ee5b7e2e4][Adversarial resources]]
+  + [[id:af7441b6-2a4e-40c3-b5eb-b48c36f1bb6f][Initial Access]]
+  + [[id:1885e4f5-8dd8-43df-a2a0-c39a0639a4ad][Execution]]
+  + [[id:0a065a12-3059-4710-9ee8-be3a2731b4e7][Persistance]]
+  + [[id:4c09ef49-6fd7-4519-955b-7a7f63abd5cc][Privilage Escalation]]
+  + [[id:e1332882-fb5a-4f98-939d-57d2e9fa69a7][Defense Evasion]]
+  + [[id:29c9904a-e5ca-4977-b857-225fff395438][Credential Access]]
+  + [[id:6d1694a0-3bc2-447e-be17-320308a60a92][Discovery]]
+  + [[id:6837127a-ee42-4a08-8e21-2eab80a45f13][Lateral Movement]]
+  + [[id:aae40152-a14a-4a7a-921e-098f3ff8bfc1][Collection]]
+  + [[id:8a17ca88-e74f-4537-aa7d-22f9d445bd96][Command & Control]]
+  + [[id:ca32e4ed-51c8-466c-98b7-3940b7b3d24e][Exfiltration]]
+  + [[id:c326e5ad-c2ca-40e9-b999-a96798e01780][Impact]]

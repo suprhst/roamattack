@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ec76a929-b941-4f74-b312-fdab4ee2b091
+:END:
+#+title: Process Injection 
++ [[id:1221f65d-66cf-494d-8169-f183b9b1fd73][Dynamic-link Library Injection]]
++ [[id:83f29732-aae3-45f7-bc09-115ed91b98c8][Portable Executable Injection]]
++ [[id:2cffd63b-5a8c-4b10-9f27-7207bbcfc44e][Thread Execution Hijacking]]
++ [[id:6c072d15-e82c-41da-b7bb-bb8a16e734b0][Asynchronous Procedure Call]]
++ [[id:92874d47-ba5e-4b3b-83d5-cc074263120c][Thread Local Storage]]
++ [[id:6a5cc3af-5267-433b-84c2-0b4581daf8c6][Ptrace System Calls]]
++ [[id:2fe78b31-9a10-4af5-9642-826a374db03d][Proc Memory]]
++ [[id:054e997b-d1d6-4914-ad3e-75276d072b83][Extra Window Memory Injection]]
++ [[id:742c6796-55eb-4fa4-8d8e-7f84bd513403][Process Hollowing]]
++ [[id:4c5b0545-5edc-4167-b615-698c9a4fdd44][Process Doppelgänging]]
++ [[id:56155e4f-cc06-4645-8de2-90a61b33fb5c][VDSO Hijacking]]

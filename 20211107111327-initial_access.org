@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       af7441b6-2a4e-40c3-b5eb-b48c36f1bb6f
+:END:
+#+title: Initial Access
++ [[id:a1fb23f2-aac3-4698-8be9-5dff9389443c][Drive by compromise]]
++ [[id:db95ad4f-0901-4a55-b288-d6f0802b1eff][Exploit Public facing Application]]
++ [[id:ae5fba37-55cb-47bd-b33e-7745ee4eee9e][External remote Services]]
++ [[id:7bf2ba82-7846-4736-b658-cf55d0d34a30][Hardware additions]]
++ [[id:8a2a0c1e-78bc-4933-96a0-88cd689a0177][Phishing campain]]
++ [[id:ce896b68-4aa4-4283-908a-3f9297c5df35][Replication Through External Media]] 
++ [[id:6a2db2ba-5234-4955-9b5e-7da06a10cd9a][Supply Chain Compromise]]
++ [[id:f0601ec2-e4db-4a6f-ad79-8607afe53237][Trusted Relationships]]
++ [[id:fb1aa5c5-35ab-4a93-802e-79c6a8ead4db][Valid Accounts]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       06365e90-aa14-4043-bbab-6348a176dd78
+:END:
+#+title: Inhibit System Recovery 
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4f2fec32-fb69-4cef-b397-e1455834d12b
+:END:
+#+title: System Services
++ [[id:2d40d158-8219-4b2e-a180-dad141063cc3][Launchctl]]
++ [[id:5c7084e3-1ded-4d65-b3a7-b91d3f157b2f][Service Execution]]

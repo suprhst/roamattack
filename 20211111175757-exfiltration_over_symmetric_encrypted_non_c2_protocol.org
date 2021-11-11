@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       af28947e-10e8-470d-9e28-fa2d550a2362
+:END:
+#+title: Exfiltration Over Symmetric Encrypted Non-C2 Protocol 
+

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4e45913-0747-43cb-aa0b-d55f9082f790
+:END:
+#+title: Scheduled Task/Job
++ [[id:6d8e70ee-6d8b-443a-86cc-ebd2eddc0b1a][AT/Linux]]
++ [[id:a4edc805-0959-4bf8-9a0c-2b8df2759da1][AT/Windows]]
++ [[id:20cff4cc-bc3a-468c-8c5f-f1aec99f4178][Cron Jobs]]
++ [[id:bc3f9a49-2755-4c4e-901c-4aab74a8596f][LaunchD]]
++ [[id:a24a4b0c-ef8d-4745-b21c-b144f17af984][ScheduleD Task]] 
++ [[id:52c02664-92fc-4220-ad7c-c3bf04e76462][SystemD Timers]]
++ [[id:8dc6391d-bb24-41fc-a331-254e3b84cec9][COntainer Orchestration Job]]

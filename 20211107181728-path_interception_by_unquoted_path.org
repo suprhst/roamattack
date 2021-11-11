@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9becd6e1-4212-4e6b-9e45-895d73561063
+:END:
+#+title: Path Interception by Unquoted Path 
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2ae16121-c1bb-451a-b121-a871800864a2
+:END:
+#+title:        Network Denial of Service 
++ [[id:0b0df728-4247-4c9d-b82d-927e6e040f47][Direct Network Flood]]
++ [[id:e1bab549-d7e5-46bc-99bb-dabee4fc50df][Reflection Amplification]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7a95ab9a-d145-4099-a5a2-32da2e1f1339
+:END:
+#+title: Component Object Model HijackinG
+

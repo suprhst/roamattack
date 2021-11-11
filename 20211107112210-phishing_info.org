@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9235ef86-6cf6-4412-bcd0-8488fcd1e120
+:END:
+#+title: Phishing Info
++ [[id:8fe7945a-8829-4f34-af59-d3ec7dd9857e][Spearphishing Service]]
++ [[id:9a11652c-6e23-4632-9c7f-a86c606ad16e][Spearphishing Attachment]]
++ [[id:65d0c372-2331-46a1-a3c9-ff12375d292d][Spearphishing link]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f5f4c1b3-38fa-41e6-ade4-3c2c84f18c09
+:END:
+#+title: Disk Content Wipe 
+

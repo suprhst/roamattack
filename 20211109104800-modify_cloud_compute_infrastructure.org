@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       01acf985-0949-484a-8dc1-ff468c64188c
+:END:
+#+title: Modify Cloud Compute Infrastructure 
++ [[id:c881afcd-0138-44d7-a41d-b46eba6eef74][Create Snapshot]]
++ [[id:7e80c15d-7e31-45c9-b0c0-a8632edd15d5][Create Cloud Instance]]
++ [[id:2c922bb1-2dab-453b-b6bb-f2dfa9d66301][Delete Cloud Instance]]
++ [[id:4f1cbb40-7fb1-4ebf-b751-9e91a8f87853][Revert Cloud Instance]]

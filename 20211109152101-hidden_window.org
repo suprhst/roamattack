@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b2c66b7a-f1b1-4f5c-8833-3ceb20d32e94
+:END:
+#+title: Hidden Window 
+

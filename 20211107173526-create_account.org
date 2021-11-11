@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cb1258f1-dfd8-46b3-a34d-8dd4392beef9
+:END:
+#+title: Create Account
++ [[id:1bc5990b-0d5a-4d90-b445-c47afc6a2d58][Local AccounT]]
++ [[id:8634048b-4943-4c0c-9718-6896e103c56d][Domain AccounT]]
++ [[id:fe9a6ec0-7811-4872-abd5-6c4cdd974d7a][Cloud AccounT]]

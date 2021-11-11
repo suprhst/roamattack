@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       554c4c3d-51b9-4199-b87f-8a4fcb193462
+:END:
+#+title: Hardware
+
+

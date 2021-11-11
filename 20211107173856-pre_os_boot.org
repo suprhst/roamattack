@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f7345a39-ba2c-43f6-8ab2-c4eb018dae47
+:END:
+#+title: Pre OS Boot
++ [[id:9f7d7663-67e5-4dda-9a19-01df94a59aec][System Firmware]]
++ [[id:8ec65ea5-67ae-4d7f-9718-394903ca1876][Component Firmware]]
++ [[id:bf813d5c-caf7-4146-9189-b1f75f1b9151][Bootkit]]
++ [[id:8fcf5262-cabf-4517-8a5b-c0fbe5d39b65][ROMMONkit]]
++ [[id:cc53ff02-0947-4a37-a8cc-037d12cfa015][TFTP Boot]]

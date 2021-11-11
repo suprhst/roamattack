@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7bf2ba82-7846-4736-b658-cf55d0d34a30
+:END:
+#+title: Hardware additions
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       67a83fe6-df5a-42cb-a9d3-00bf7f209c4b
+:END:
+#+title: Steal Web Session Cookie
+

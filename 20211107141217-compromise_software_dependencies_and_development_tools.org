@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e332fb9c-84f8-4dd9-a7d1-2d65ac91f13e
+:END:
+#+title: Compromise Software Dependencies and Development Tools 
+

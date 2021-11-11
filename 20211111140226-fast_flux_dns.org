@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       04817493-1abd-466d-8d15-1a2df0f0e39c
+:END:
+#+title: Fast Flux DNS 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       24932ba3-ca45-4049-be6f-739cfd87ee26
+:END:
+#+title: Domain Controller Authentication 
+

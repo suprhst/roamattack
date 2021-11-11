@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3cdd6b97-7038-48ba-9072-d53d6e1f98d6
+:END:
+#+title: Clear Command History 
+

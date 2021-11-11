@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0a065a12-3059-4710-9ee8-be3a2731b4e7
+:END:
+#+title: Persistance
++ [[id:b630105b-f754-4d83-a6cb-c5319f4d1424][Account Manipulation]]
++ [[id:a865be46-82c1-4045-8b22-b1585b97a55d][Background Intelligent Transfer Service (BITS)]]
++ [[id:9eeb5fef-4b0c-4f14-b0be-14d676dfe8f3][Boot/Logon Autostart Execution]]
++ [[id:c4c51ec6-cdf0-4665-b762-1d280f3876cc][Boot/Logon Initialization Scripts]]
++ [[id:a9efc404-3bb3-4794-8aac-ba832e25bc9c][Browser Extensions]]
++ [[id:22f3258b-afee-40c6-a63d-25a508b1fd99][Compromise Client Software Binary]]
++ [[id:cb1258f1-dfd8-46b3-a34d-8dd4392beef9][Create Account]]
++ [[id:0063edf6-772c-4448-8e12-b51e072f5de6][Create / modify system process]]
++ [[id:9092d31f-d59b-4c3b-abac-76f437d37697][Event Triggered Execution]]
++ [[id:98a35b27-64f5-4c1e-8d6a-fe7ad553dbe3][External Remote Service]]
++ [[id:f58ddfdd-10b3-4aa3-8d19-2295b881b54c][Hijack Flow Execution]]
++ [[id:996445b8-9408-423b-94dc-6b65e76c3f2a][Implant Internal Image]]
++ [[id:b93a7261-329c-40f0-8313-d0f805ecf8e9][Modify Authentication Process]]
++ [[id:d911e613-3591-4b45-8471-53d7b14756d2][Office Application Startup]]
++ [[id:f7345a39-ba2c-43f6-8ab2-c4eb018dae47][Pre OS Boot]]
++ [[id:e4e45913-0747-43cb-aa0b-d55f9082f790][Scheduled Task/Job]]
++ [[id:e5f32e92-9b6b-4119-8ea8-59f7adfd7535][Server Component Software]]
++ [[id:bd4b4486-418f-4476-838b-aeee4cedf2f4][Traffic Signaling]]
++ [[id:6965b02c-8404-48df-bbea-775cd6aed8c6][Valid AcCounts]]

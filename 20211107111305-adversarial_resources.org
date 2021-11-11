@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6c9fd223-62e9-4e2e-9dd6-4f7ee5b7e2e4
+:END:
+#+title: Adversarial resources
++ [[id:ec7756ee-f366-4950-97f6-ea33f4d249b4][Acquired Infrastructure]]
++ [[id:6f0a585d-495a-46d7-a6f7-dee366877eb6][Compromised Accounts]]
++ [[id:65a931a3-d2c7-4594-b07b-e979842ceecd][Compromised Infrastructure]]
++ [[id:f915d33e-1752-41e4-b990-dc57c2893c70][Develop Capabilities]]
++ [[id:16b29c30-886d-4848-8053-09da0e7304c0][Established Accounts]]
++ [[id:4d222615-f128-40b4-8cf8-83769e7fe1fe][Obtained Capabilities]]
++ [[id:a00267e5-5639-450b-bb7c-0275550db8e0][Stage Capabilities]]

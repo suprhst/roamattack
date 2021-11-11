@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d00e4a2f-ec59-4a3e-aa6f-171002fb4711
+:END:
+#+title: Exfiltration Over Alternative 
++ [[id:af28947e-10e8-470d-9e28-fa2d550a2362][Exfiltration Over Symmetric Encrypted Non-C2 Protocol]]
++ [[id:2a113a73-635e-44d3-b413-18a7bfad08d1][Exfiltration Over Asymmetric Encrypted Non-C2 Protocol]]
++ [[id:dd3b7194-adf0-441f-b22f-d3a0292f3a56][Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol]]

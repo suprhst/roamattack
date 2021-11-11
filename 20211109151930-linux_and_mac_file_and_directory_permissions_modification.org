@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       106b593b-c226-471a-b783-45eddf980f55
+:END:
+#+title:        Linux and Mac File and Directory Permissions Modification 
+

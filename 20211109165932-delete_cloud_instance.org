@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2c922bb1-2dab-453b-b6bb-f2dfa9d66301
+:END:
+#+title: Delete Cloud Instance 
+

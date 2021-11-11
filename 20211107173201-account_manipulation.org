@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b630105b-f754-4d83-a6cb-c5319f4d1424
+:END:
+#+title: Account Manipulation
++ [[id:abacd13b-cd6e-499a-be68-be3d5f92ffad][Additional Cloud Credentials]] 
++ [[id:e68bb2fd-8a02-4087-8eef-7431df148df7][Exchange Email Delegate Permissions]]
++ [[id:3264b00b-a43f-4a45-92d9-e21319bcb84c][Add Office 365 Global Administrator Role]]
++ [[id:87d34668-9ff7-4cd9-a5b5-1e7daeebe4db][SSH Authorized Keys]] 

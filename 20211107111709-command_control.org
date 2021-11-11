@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8a17ca88-e74f-4537-aa7d-22f9d445bd96
+:END:
+#+title: Command & Control
++ [[id:c8b2757c-5cca-4027-a9a6-87f64d1c49a3][Application Layer Protocol]]
++ [[id:7750f828-1d77-4c9d-80e3-766e2b0fc51d][Communication Through Removable Media]]
++ [[id:606bbf5d-b982-4d94-b35f-a7787e68d2ec][Data Encoding]]
++ [[id:4fe2c4e7-77a9-4c52-87be-a4b52c487189][Data Obfuscation]]
++ [[id:bccd42b6-a67d-455f-9150-77ae5ca49dbb][Dynamic Resolution]]
++ [[id:0dd3311f-cbbc-43d5-8cce-4376ddffba5e][Encrypted Channel]]
++ [[id:bb91099e-904a-4747-b0d1-aa80de81a12f][Fallback Channels]]
++ [[id:81dc08ff-4962-4250-957d-8d781da10481][Ingress Tool Transfer]]
++ [[id:b1e2df4a-20d7-41aa-bb69-756c4da9fc5e][Multi-Stage Channels]]
++ [[id:1743fd16-51a4-40d7-afd2-387ae1246b51][Non-Application Layer Protocol]]
++ [[id:4283bc5c-6952-4624-b496-d4027132a36b][Non-Standard Port]]
++ [[id:572b4aa1-ee10-4b47-9d2f-e1247d98ce54][Protocol Tunneling]]
++ [[id:6a6287cd-e6c0-470f-906d-9a913c5cf996][ProxY]]
++ [[id:adf6fe9e-27b5-4ebd-b8e6-2ea077dd99ec][Remote Access Software]]
++ [[id:c0011c04-cc5d-4656-b974-31deaf6b1611][Traffic SignaliNG]]
++ [[id:c1a69de3-3364-46cd-a0b0-cceeda97ace8][Web ServicE]]
+

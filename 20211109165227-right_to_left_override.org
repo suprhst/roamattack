@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7e736105-4491-424c-aee2-0a5eba60c831
+:END:
+#+title: Right-to-Left Override 
+

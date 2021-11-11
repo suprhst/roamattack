@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c4ac82ad-376d-4cda-bfc8-bec81d2abd27
+:END:
+#+title: DNS Calculation 
+

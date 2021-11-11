@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       77724a7a-9555-4d25-95b2-e01af13caadb
+:END:
+#+title: Impair Command History Logging 
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1e28993f-df37-43aa-89e4-2b546a861c09
+:END:
+#+title: Modify System Image 
++ [[id:1093e2ed-8b0b-4972-8ab9-50017f6f0a3a][Patch System Image]]
++ [[id:945766ad-f389-47bd-bdeb-6a7355c94457][Downgrade System Image]]

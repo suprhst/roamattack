@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b525d74b-cbb2-4e61-9b47-d3068d4f0520
+:END:
+#+title: NTFS File Attributes 
+

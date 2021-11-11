@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e9672e50-2bc2-46ea-9c7c-7cddefde9060
+:END:
+#+title: Hijack Execution FlOw
++ [[id:b109378f-11e3-4d7d-86c2-1af362c27c68][DLL Search Order HijackiNg]]
++ [[id:cd4815bb-4e54-49c6-8792-12dad25c1649][DLL Side-LoadiNg]]
++ [[id:70b9c80d-0d75-4ca9-9335-7262e5c4596f][Dylib HijackiNg]]
++ [[id:ada138eb-c648-4a72-9f5e-47fefc829e6a][Executable Installer File Permissions Weakness]]
++ [[id:eea9b090-9a13-424b-992b-f791164fbab3][Dynamic Linker HijackiNG]]
++ [[id:9fb64914-28b6-4902-96e5-40b7ac79d055][Path Interception by PATH Environment VariabLE]]
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2a113a73-635e-44d3-b413-18a7bfad08d1
+:END:
+#+title: Exfiltration Over Asymmetric Encrypted Non-C2 Protocol 
+

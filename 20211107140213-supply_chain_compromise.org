@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6a2db2ba-5234-4955-9b5e-7da06a10cd9a
+:END:
+#+title: Supply Chain Compromise
++ [[id:e332fb9c-84f8-4dd9-a7d1-2d65ac91f13e][Compromise Software Dependencies and Development Tools]]
++ [[id:355414a0-e6cd-44af-9962-2d943792fb11][Compromise Software Supply Chain]]
++ [[id:072f8d19-548f-4e1c-93bd-fb43bc3ce6e6][Compromise Hardware Supply Chain]]

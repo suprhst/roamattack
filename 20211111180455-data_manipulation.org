@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       337b707c-91e1-44bc-9d46-eaa9517c29a0
+:END:
+#+title: Data Manipulation 
++ [[id:f2bcc150-aef8-4393-86b8-40f9eed72d41][Stored Data Manipulation]]
++ [[id:1fa9fd52-3cc8-4b19-8669-5ad7c333bc4f][Transmitted Data Manipulation]]
++ [[id:501d316f-b731-4564-b692-99116bdb2b0f][Runtime Data Manipulation]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5dac82df-80e7-4bdc-b65d-eb84a264d725
+:END:
+#+title: Data from Configuration Repository 
++ [[id:765a33a9-f379-4881-a977-858dbae73298][SNMP (MIB Dump)]]
++ [[id:82d246b6-493f-4f0e-85f1-326e0b3f02b6][Network Device Configuration Dump]]

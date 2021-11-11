@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       94924332-cb08-46af-89b9-9a2e8213c530
+:END:
+#+title: Data from Removable Media 
+

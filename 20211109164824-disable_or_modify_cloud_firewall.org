@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f9c0e4fa-7aa5-4a5c-aa5c-717d38b0a87b
+:END:
+#+title: Disable or Modify Cloud Firewall 
+

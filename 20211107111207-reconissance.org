@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ca400107-8a06-4941-a3ca-00dc42eeed8f
+:END:
+#+title: Reconissance
+ + [[id:6e576c49-cb44-4669-94ee-4166935a304a][Active Scanning]]
+ + [[id:05f0b5c3-bcc9-45b7-a3e7-7d417fa66b0d][Host Information]]
+ + [[id:cf48efa0-9afc-49da-a7e9-82f85f46f6ee][Victim Identity Information]]
+ + [[id:81502088-1f71-4665-9ea4-360b698c719f][Victim Network Info]]
+ + [[id:73f2d924-6635-4d92-b180-03638e1c3209][Victim Org Info]]
+ + [[id:9235ef86-6cf6-4412-bcd0-8488fcd1e120][Phishing Info]]
+ + [[id:51ef785f-e464-45b7-915b-1fd88756a7e4][Search Closed Sources]]
+ + [[id:a85b3e9a-7048-42c7-a6f2-078482a5391f][Open Technical Database Info]]
+ + [[id:30ec44e9-3831-4915-9dd8-7316f8d22775][Open Website/Domain Info]]
+ + [[id:10ff4789-fb7f-484d-a1b7-e6290d1c14d4][Victim Owned Websites]]

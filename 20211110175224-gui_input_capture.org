@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       144bb1b4-058d-47ad-a755-0544a52ff094
+:END:
+#+title: GUI Input Capture 
+

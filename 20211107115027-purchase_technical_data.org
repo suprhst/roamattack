@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f7859394-6ab6-480b-9a82-c840f600b3c1
+:END:
+#+title: Purchase Technical Data
+

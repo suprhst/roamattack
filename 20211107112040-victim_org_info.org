@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       73f2d924-6635-4d92-b180-03638e1c3209
+:END:
+#+title: Victim Org Info
++ [[id:79e018b8-f326-4936-a249-4f09bdaa9547][Physical Locations]]
++ [[id:444bc3ec-ad7a-4f36-bb70-dcdf31bbc028][Business Relationship]]
++ [[id:59cbb108-e03d-40ac-aedb-0959fcf13589][Identify Business Tempo]]
++ [[id:dff45764-a566-4774-89cc-6e4e1eb69dc8][Identify Roles]]

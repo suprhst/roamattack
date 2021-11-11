@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       87e671ba-94fc-4c49-9e33-8b5ac1128de9
+:END:
+#+title: Resource Forking 
+

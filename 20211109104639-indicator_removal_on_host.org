@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6d909a14-bf03-48b8-beab-04537cdd1bd9
+:END:
+#+title:        Indicator Removal on Host 
++ [[id:7812f352-4040-4b2a-b2a5-6fff4ba7f43f][Clear Windows Event Logs]]
++ [[id:2a89f3b0-0ca4-4466-ad28-ff41408a3ad5][Clear Linux or Mac System Logs]]
++ [[id:3cdd6b97-7038-48ba-9072-d53d6e1f98d6][Clear Command History]]
++ [[id:962d1f3c-9e5e-410c-bffd-ada40dc5be82][File Deletion]]
++ [[id:b74f2747-9d90-4482-a1e9-90c27d7f661b][Network Share Connection Removal]]
++ [[id:ce6321e9-96d1-41cc-8dc5-823ce0f760df][Timestomp]]

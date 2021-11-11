@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ab0de82a-5822-4880-ab4c-92ab6395f5fe
+:END:
+#+title: Executable Installer File Permissions Weakness 
+

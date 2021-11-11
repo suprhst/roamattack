@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c0488baf-816f-4164-a819-452c47d911b2
+:END:
+#+title: Office Template Macros 
+

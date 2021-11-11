@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       28418ff9-8697-4339-8856-38035df2905b
+:END:
+#+title: System Time Discovery 
+

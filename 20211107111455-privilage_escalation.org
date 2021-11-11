@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4c09ef49-6fd7-4519-955b-7a7f63abd5cc
+:END:
+#+title: Privilage Escalation
++ [[id:924f5ff2-e1fd-4605-9ed2-2c35f1084fdc][Abuse Elevation Control Mechanism]]
++ [[id:4e53f508-a7e8-4795-bf98-9db1089da978][Access Token Manipulation]]
++ [[id:da39fca7-ffb2-4421-8080-3d0cf88db477][Boot or Logon Autostart Execution]]
++ [[id:5d07f348-b2b3-4bdf-a48e-f7dba471b8ba][Boot or Logon Initialization Scripts]]
++ [[id:8f0b7458-29f9-4981-9306-0be4481f6d7a][Create or Modify System Process]]
++ [[id:2b72071c-406c-42f5-b7ff-54fdfdbb632f][Domain Policy Modification]]
++ [[id:d74e4fc1-3736-4bf1-ab2c-c62b46feb43f][Escape to Host]]
++ [[id:9343e633-9f58-4b59-8043-6976ffc329a6][Event Triggered ExecutioN]]
++ [[id:6a589d55-2b6b-40db-af4e-4d22a52d7fdf][Exploitation for Privilege Escalation]]
++ [[id:ce93af96-d11d-4652-adc0-f0f5b953d3f7][Hijack Execution FloW]]
++ [[id:ec76a929-b941-4f74-b312-fdab4ee2b091][Process Injection]]
++ [[id:2bf3974d-bd81-4586-bbf6-c08d5c643f61][Scheduled Task/JoB]]
++ [[id:8d69b526-3a9c-4172-83d0-8b57a6f8a7a8][Valid AccountS]]
+

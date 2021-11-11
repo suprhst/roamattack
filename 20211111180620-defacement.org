@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cda2493e-2833-4b87-9a31-8cee7a41ffde
+:END:
+#+title: Defacement 
++ [[id:0dcacbbc-0645-48a4-97bb-f4aa441cb50a][Internal Defacement]]
++ [[id:577d6792-f81e-4af8-a982-c9e3053b5b82][External Defacement]]

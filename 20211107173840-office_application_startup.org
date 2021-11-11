@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d911e613-3591-4b45-8471-53d7b14756d2
+:END:
+#+title: Office Application Startup
++ [[id:c0488baf-816f-4164-a819-452c47d911b2][Office Template Macros]]
++ [[id:738a4c9e-cf58-48b8-8df9-784665f9ab77][Office Test]]
++ [[id:3c6e37d0-61a4-4768-96fb-72ad3c211034][Outlook Forms]]
++ [[id:9e334c4e-3332-48fd-b24b-840634ee68e7][Outlook Home Page]] 
++ [[id:535db67c-c99a-4ddc-bdc4-c3333c610458][Outlook Rules]]
++ [[id:1a844cdb-c566-450c-9811-f6e856a58070][Add-ins]]
+

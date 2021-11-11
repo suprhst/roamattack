@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f915d33e-1752-41e4-b990-dc57c2893c70
+:END:
+#+title: Develop Capabilities
++ [[id:98c88bef-fd07-42bb-acc7-ea79a198dc39][Malware]]
++ [[id:53554b7a-06db-45d5-9865-6e7983a6e896][Code Signing Certificates]]
++ [[id:53e14da9-7464-4c7a-ba26-e98df20131a4][Digital CerTificates]]
++ [[id:013750cd-a2d9-4cc5-a84c-ee9c810e34d9][Exploits]]

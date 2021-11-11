@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       533d156f-e92b-4358-8ae1-845a12881f7d
+:END:
+#+title:        Standard Encoding 
+

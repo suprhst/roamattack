@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ad929e66-cc07-43dc-83fb-4ac604dc9f8a
+:END:
+#+title: Impair Defenses 
++ [[id:fd475c2e-6d1d-403f-8c2b-1e67b65e4d44][Disable or Modify Tools]]
++ [[id:c8fc8ff0-c4dc-40f9-8ee0-1097df2fdaaf][Disable Windows Event Logging]]
++ [[id:77724a7a-9555-4d25-95b2-e01af13caadb][Impair Command History Logging]]
++ [[id:d82f02a8-a999-4be1-bd60-82b5349fa81c][Disable or Modify System Firewall]]
++ [[id:2b3b7405-933a-4393-8433-61605c01e216][Indicator Blocking]]
++ [[id:f9c0e4fa-7aa5-4a5c-aa5c-717d38b0a87b][Disable or Modify Cloud Firewall]]
++ [[id:411f4a86-40e1-405d-88ab-f8792ae1ea26][Disable Cloud Logs]]
++ [[id:e8aae74b-4207-4277-9896-778cc8f2d934][Safe Mode Boot]]
++ [[id:8046c4b3-9b78-430e-ab92-68d2a1383392][Downgrade Attack]]

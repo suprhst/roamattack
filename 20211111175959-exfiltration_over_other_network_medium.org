@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       13a12007-9132-42a9-8599-34d1f1230d5a
+:END:
+#+title: Exfiltration Over Other Network Medium 
++ [[id:671544db-b7ec-4f6b-a7b4-7a62388e8bf8][Exfiltration Over Bluetooth]]

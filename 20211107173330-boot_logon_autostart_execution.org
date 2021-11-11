@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9eeb5fef-4b0c-4f14-b0be-14d676dfe8f3
+:END:
+#+title: Boot/Logon Autostart Execution
++ [[id:3b6333a0-7cc5-4559-8521-7a5ab5d0ca3d][Registry Run Keys / Startup Folder]]
++ [[id:41398490-623f-43eb-95ef-1c64bef16e39][Authentication Package]]
++ [[id:133ef682-be3c-4c71-bc77-cde68e926b94][Time Providers]]
++ [[id:035e74b1-6ef8-4b82-b204-8ccdb5900301][Winlogon Helper DLL]]
++ [[id:8243b154-7752-47bc-96cf-55d7932196e5][Security Support Provider]]
++ [[id:f8315297-5eaa-4800-b447-13bceec10bbc][Kernel Modules and Extensions]]
++ [[id:e8af8094-a466-4d85-a011-ea8a5ed02de6][Re-opened Applications]]
++ [[id:77d580dd-9b8c-4028-8baf-594145dd35ec][LSASS Driver]]
++ [[id:f0475b71-2e3d-48ee-ad27-d4a2f65774ed][Shortcut Modification]]
++ [[id:a768ff64-2f89-4499-9bfb-4f8ea463378f][Port Monitors]]
++ [[id:a80d1781-dc3f-4f99-9c87-7e4ebcf8b776][Plist Modification]]
++ [[id:c4c487b2-3cc7-43c5-8097-4d79ca861f1a][Print Processors]]
++ [[id:0dbf22dd-3ada-4b74-97fe-02eb36880b2d][XDG Autostart Entries]]
++ [[id:40571343-cd3c-4838-bee0-e9513ceba264][Active Setup]]
++ [[id:c1320f45-18e4-408c-8b26-2b10dea2a4d6][Login Items]]

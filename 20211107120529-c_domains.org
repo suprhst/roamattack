@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       87240d01-0745-45ff-9c56-f57c54fd2474
+:END:
+#+title: C Domains
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       64ebb1d8-3d84-4d06-8c34-f33800815836
+:END:
+#+title: Email Collection 
++ [[id:7dd0d8f8-1b44-49b0-93a2-f507a29ef747][Local Email Collection]]
++ [[id:c80eeac9-4e91-4592-8d95-6609ac299219][Remote Email Collection]]
++ [[id:ebbce323-03c5-4492-b5be-d2b668597bfc][Email Forwarding Rule]]

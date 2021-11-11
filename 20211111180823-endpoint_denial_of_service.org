@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       20321015-747a-45f6-b543-3ae1b9df70ac
+:END:
+#+title:        Endpoint Denial of Service 
++ [[id:9b2e977a-cb77-4828-b701-3b7861b0c3eb][OS Exhaustion Flood]]
++ [[id:6fb2b074-8983-4d5e-abb4-0668c6f1bac3][Service Exhaustion Flood]]
++ [[id:206f28b3-04f0-4a54-b438-268d28b03073][Application Exhaustion Flood]]
++ [[id:aca8045d-d9ae-4e6b-b463-4404d43d0f15][Application or System Exploitation]]

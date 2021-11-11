@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       31f0f03b-ff83-4247-9d82-5058e32e58cb
+:END:
+#+title: Command & Scripting Interpreter
++ [[id:a52beb86-46db-4c65-895b-48ff9f971f92][Powershell]]
++ [[id:54d5a1b0-2140-4b04-b702-921bd40b4550][Applescript]]
++ [[id:dbf74d5d-d5d9-4995-9f61-ae70279844f5][Windows Command Shell]]
++ [[id:375aecf0-62ad-40cb-a58b-52a21eb192d1][Unix Shell]]
++ [[id:99dbb398-9f48-4e82-a062-9f8d343d8015][Visual Basic]]
++ [[id:40eab4ca-1895-4834-a774-8b254435be64][Python]]
++ [[id:39055ff4-2687-4dbf-b1a7-8856d23b6360][Javascript]]
++ [[id:d88ca175-aa92-4b38-9159-07ecbe32e3d4][Network Device Cli]]

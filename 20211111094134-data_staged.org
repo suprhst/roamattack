@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0cdb0adb-afd2-4eaa-bb1e-e4af12a3755a
+:END:
+#+title: Data Staged 
++ [[id:71c6aae1-dcf7-49dc-92f0-c80820d96ffb][Local Data Staging]]
++ [[id:650b7602-9cd6-4e44-ae7a-b9be4e850206][Remote Data Staging]]

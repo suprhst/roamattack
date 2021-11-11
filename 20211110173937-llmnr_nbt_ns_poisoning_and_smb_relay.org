@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f38e3c7c-5c60-40b1-93df-981f566c5dfc
+:END:
+#+title: LLMNR/NBT-NS Poisoning and SMB Relay
+

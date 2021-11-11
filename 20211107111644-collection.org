@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       aae40152-a14a-4a7a-921e-098f3ff8bfc1
+:END:
+#+title: Collection
++ [[id:aa177c5b-e919-47d6-94bd-b87dcaf798d8][Adversary-in-the-MiddlE]]
++ [[id:5c7b982a-db2c-4bd4-b95c-35891a6cd780][Archive Collected Data]]
++ [[id:f549bc65-8bda-473f-87fe-17dc9c997f99][Audio Capture]]
++ [[id:2e422b13-9d56-4545-b302-9fc3a5337b25][Automated Collection]]
++ [[id:2fbde419-d9e5-4094-8cc0-75651c4a03cb][Browser Session Hijacking]]
++ [[id:e2a4696b-60f9-4420-bc2f-e4689b80dda8][Clipboard Data]]
++ [[id:980be4a6-4689-4bc6-994f-be836d99be08][Data from Cloud Storage Object]]
++ [[id:5dac82df-80e7-4bdc-b65d-eb84a264d725][Data from Configuration Repository]]
++ [[id:916444b4-6b55-43d6-a071-1aceabcc746e][Data from Information Repositories]]
++ [[id:a9e18294-9ccb-4b97-853d-731e50fc3528][Data from Local System]]
++ [[id:cc37803a-22e6-4680-833a-f9df2718090e][Data from Network Shared Drive]]
++ [[id:94924332-cb08-46af-89b9-9a2e8213c530][Data from Removable Media]]
++ [[id:0cdb0adb-afd2-4eaa-bb1e-e4af12a3755a][Data Staged]]
++ [[id:64ebb1d8-3d84-4d06-8c34-f33800815836][Email Collection]]
++ [[id:cc580606-52f4-410b-859d-9aac73cb7968][Input CaptuRe]]
++ [[id:fad8a6fa-e511-4bf2-9398-7351221515c5][Screen Capture]]
++ [[id:5a4245d5-dac6-4be2-9299-e57ead91cc86][Video Capture]]

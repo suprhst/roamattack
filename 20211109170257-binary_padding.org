@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b2b1b69e-61e6-44ff-a2a9-0ccbbdd6c7d3
+:END:
+#+title: Binary Padding 
+

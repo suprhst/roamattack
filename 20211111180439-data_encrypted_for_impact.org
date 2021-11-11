@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d4e03fa4-c0bc-4100-841c-64ebf5ae1b66
+:END:
+#+title:        Data Encrypted for Impact 
+

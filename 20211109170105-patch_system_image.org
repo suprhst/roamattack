@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1093e2ed-8b0b-4972-8ab9-50017f6f0a3a
+:END:
+#+title: Patch System Image 
+

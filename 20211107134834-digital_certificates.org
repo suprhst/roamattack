@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       53e14da9-7464-4c7a-ba26-e98df20131a4
+:END:
+#+title: Digital CerTificates
+

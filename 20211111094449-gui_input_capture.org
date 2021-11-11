@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       78f5e199-7ab8-4112-aa59-d5fc4a049218
+:END:
+#+title: GUI Input CapturE
+

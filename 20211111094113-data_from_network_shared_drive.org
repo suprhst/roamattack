@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cc37803a-22e6-4680-833a-f9df2718090e
+:END:
+#+title: Data from Network Shared Drive 
+

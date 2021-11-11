@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8a2a0c1e-78bc-4933-96a0-88cd689a0177
+:END:
+#+title: Phishing campain
++ [[id:bf12936a-4ef4-48d0-965a-455e8aa0ba92][SpearPhish Attach]]
++ [[id:fd5eecb1-a600-4d27-af32-3a491bc0b9bf][Spearphish Link]]
++ [[id:2b6f0ab3-8b48-44fa-923e-47a971a0d2df][Spearphish via  Service]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4fe2c4e7-77a9-4c52-87be-a4b52c487189
+:END:
+#+title: Data Obfuscation 
++ [[id:0f846997-d3af-4e1d-b248-2715c3a9bcb0][Junk Data]]
++ [[id:f93dfefd-1d9c-44df-9bd7-11f247d634b7][SteganographY]]
++ [[id:a98d2477-0827-46c3-97bb-1e4d9cf1abe8][Protocol Impersonation]]

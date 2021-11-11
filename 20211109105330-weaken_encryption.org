@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1e6687d6-8415-4717-87bb-f441352d33bd
+:END:
+#+title: Weaken Encryption 
++ [[id:20e3827f-946a-4cd0-90a8-470ca03fd350][Reduce Key Space]]
++ [[id:2521238b-0880-4e61-8e8f-dd228059679b][Disable Crypto Hardware]]

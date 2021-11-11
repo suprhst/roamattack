@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5d2b7c4f-8851-4963-a1f1-8898fedbac75
+:END:
+#+title: Access Token ManipulatioN
++ [[id:b7f57e52-a952-418f-92ec-bf3b36be2bfd][Token Impersonation/ThefT]]
++ [[id:1b218721-f461-4ca8-a14e-90076c59729c][Create Process with TokeN]]
++ [[id:ea087820-8472-410c-83f7-b917fba30849][Make and Impersonate TokeN]]
++ [[id:a58693ec-7425-4c27-8a9b-92b47ab2584a][Parent PID SpoofinG]]
++ [[id:79abf831-8018-4e47-a2ad-77135ffd790d][SID-History InjectioN]]
+

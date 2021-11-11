@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1e401600-6f16-4eba-9b37-88a55b7d8399
+:END:
+#+title: Ip Address
+

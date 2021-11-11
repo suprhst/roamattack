@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dd3b7194-adf0-441f-b22f-d3a0292f3a56
+:END:
+#+title: Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol 
+

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6f0a585d-495a-46d7-a6f7-dee366877eb6
+:END:
+#+title: Compromised Accounts
++ [[id:68c224d3-4fbf-48c0-b1e8-8112d982e899][Social Media Accounts]]
++ [[id:d8bd6b51-f88a-4177-b4e6-a865a8a6d83e][Email Accounts]]

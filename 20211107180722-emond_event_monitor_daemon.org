@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f5001d9b-0aac-40a3-bf07-5b5fecd8844f
+:END:
+#+title: Emond (Event Monitor Daemon)
+

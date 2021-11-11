@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9f7d7663-67e5-4dda-9a19-01df94a59aec
+:END:
+#+title: System Firmware
+

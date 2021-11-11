@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2a89f3b0-0ca4-4466-ad28-ff41408a3ad5
+:END:
+#+title: Clear Linux or Mac System Logs 
+

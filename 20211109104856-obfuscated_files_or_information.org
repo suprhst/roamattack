@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       99b0af5d-0bcb-43c1-b448-944abe561d89
+:END:
+#+title: Obfuscated Files or Information 
++ [[id:b2b1b69e-61e6-44ff-a2a9-0ccbbdd6c7d3][Binary Padding]]
++ [[id:63ea4a1a-e8fa-459e-bfd1-4d8942a7cacd][Software Packing]]
++ [[id:a871f126-428d-44e1-abc9-5eba6011b9a6][Steganography]]
++ [[id:1661a88d-b7fc-484d-a6ed-48ea46f33e3b][Compile After Delivery]]
++ [[id:fe1037b4-e52b-4a57-8558-fc396b5c650b][Indicator Removal from Tools]]
++ [[id:dd541800-aac9-4151-915f-6b595d2b5e41][HTML Smuggling]]
+

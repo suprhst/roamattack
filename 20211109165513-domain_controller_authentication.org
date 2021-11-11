@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cc4e59b0-1fc8-4bbd-afb4-bfec48d50c0e
+:END:
+#+title: Domain Controller AuthenticatiOn
+

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       dca13253-e722-46ef-b7ed-5b6e0db7062f
+:END:
+#+title: Input Capture 
++ [[id:672a0483-6b46-4133-82c9-64ad73e8516c][Keylogging]]
++ [[id:144bb1b4-058d-47ad-a755-0544a52ff094][GUI Input Capture]]
++ [[id:8c98a6f2-2b75-451f-9257-fd05ecb59114][Web Portal Capture]]
++ [[id:6908d623-b508-4413-b6c2-7b59900ec28c][Credential API Hooking]]
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       49b03fd1-5590-4a51-bb2f-90bbac7e15b1
+:END:
+#+title: C DNS Server
+

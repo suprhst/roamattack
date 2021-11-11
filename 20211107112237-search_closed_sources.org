@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       51ef785f-e464-45b7-915b-1fd88756a7e4
+:END:
+#+title: Search Closed Sources
++ [[id:994b5594-383d-453d-9ac9-ae0dc63cb482][Threat Intel Vendors]]
++ [[id:f7859394-6ab6-480b-9a82-c840f600b3c1][Purchase Technical Data]]

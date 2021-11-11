@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0dd3311f-cbbc-43d5-8cce-4376ddffba5e
+:END:
+#+title:  Encrypted Channel 
++ [[id:fa0d8589-4df3-4eb2-acc8-815725f60b2e][Symmetric Cryptography]]
++ [[id:3d99cab8-120d-4ea6-b8c9-2402758ba069][Asymmetric Cryptography]]

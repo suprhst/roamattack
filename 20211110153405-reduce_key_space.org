@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       20e3827f-946a-4cd0-90a8-470ca03fd350
+:END:
+#+title: Reduce Key Space 
+

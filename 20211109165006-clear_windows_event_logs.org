@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7812f352-4040-4b2a-b2a5-6fff4ba7f43f
+:END:
+#+title: Clear Windows Event Logs 
+

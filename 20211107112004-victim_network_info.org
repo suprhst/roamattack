@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       81502088-1f71-4665-9ea4-360b698c719f
+:END:
+#+title: Victim Network Info
++ [[id:485e8802-e187-439a-bae1-43e1d7d96eb7][Domain Properties]]
++ [[id:c5a9e016-95af-4175-9452-d5c90164f0a3][DNS]]
++ [[id:e0f14b53-ed13-4532-8cc5-c1e5c7f9802b][Network Trust Dependencies]]
++ [[id:0edd89a0-d601-4767-92ef-4627e63c2f9d][Network Topology]]
++ [[id:1e401600-6f16-4eba-9b37-88a55b7d8399][Ip Address]]
++ [[id:79b93897-a847-4ee2-bd13-de6f2b553f34][Network Security Appliances]]

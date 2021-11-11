@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3f33da47-4d88-4137-97e5-6dafb8729506
+:END:
+#+title: System Location Discovery 
++ [[id:594f96ef-efe9-4a13-9feb-927ac73fd6cd][System Language Discovery]]

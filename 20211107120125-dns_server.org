@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8aec9a6a-9fe7-4a42-a2e4-aafc1ffd02a0
+:END:
+#+title: DNS Server
+

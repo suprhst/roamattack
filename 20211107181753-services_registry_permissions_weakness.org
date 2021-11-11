@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fb756cfe-f19d-43c2-a018-e79995334923
+:END:
+#+title: Services Registry Permissions Weakness 
+

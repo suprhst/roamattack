@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7dfb6196-d273-4138-bd21-6ad583d680d5
+:END:
+#+title: Dead Drop Resolver 
+

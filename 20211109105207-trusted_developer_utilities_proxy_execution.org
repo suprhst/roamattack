@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ad83dde9-c5fa-4fa0-8905-487b41f82399
+:END:
+#+title: Trusted Developer Utilities Proxy Execution 
++ [[id:75e2dde7-b74a-4df1-ac76-392cd97e3b0f][MSBuild]]

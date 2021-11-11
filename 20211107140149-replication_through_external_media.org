@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ce896b68-4aa4-4283-908a-3f9297c5df35
+:END:
+#+title: Replication Through External Media
+

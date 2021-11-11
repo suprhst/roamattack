@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       45361cb0-7d95-4fc6-afbf-17ca0ed816e4
+:END:
+#+title:        Emond 
+

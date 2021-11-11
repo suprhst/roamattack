@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       bf8ee97d-8786-4797-9aac-95bb342207b6
+:END:
+#+title: Local AccouNt
+

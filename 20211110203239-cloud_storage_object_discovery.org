@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a7ce57b4-3f27-4899-8c68-27c9ef224beb
+:END:
+#+title: Cloud Storage Object Discovery 
+

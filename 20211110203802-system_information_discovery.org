@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       416310a8-6380-402c-8145-a076f3df2390
+:END:
+#+title:        System Information Discovery 
+

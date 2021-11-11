@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       99d1e0d0-9006-45d5-87d6-9f438673554e
+:END:
+#+title: Adversary-in-the-Middle 
++ [[id:f38e3c7c-5c60-40b1-93df-981f566c5dfc][LLMNR/NBT-NS Poisoning and SMB Relay]]
++ [[id:b20d1a34-e548-44d0-be8d-1b7403d8a7c9][ARP Cache Poisoning]]

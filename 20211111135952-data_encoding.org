@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       606bbf5d-b982-4d94-b35f-a7787e68d2ec
+:END:
+#+title: Data Encoding 
++ [[id:533d156f-e92b-4358-8ae1-845a12881f7d][Standard Encoding]]
++ [[id:de01702c-06d8-4fe4-ae11-9680c379d4eb][Non-Standard Encoding]]

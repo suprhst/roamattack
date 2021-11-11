@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0643a406-050d-4cbb-94b1-bd2c7bfe90cd
+:END:
+#+title: Windows Management Instrumentation Event Subscription 
+

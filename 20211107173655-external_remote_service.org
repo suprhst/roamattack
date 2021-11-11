@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       98a35b27-64f5-4c1e-8d6a-fe7ad553dbe3
+:END:
+#+title: External Remote Service
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       71c6aae1-dcf7-49dc-92f0-c80820d96ffb
+:END:
+#+title: Local Data Staging 
+

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4578796d-c0ea-4309-a27b-58b79b8c6336
+:END:
+#+title:  File and Directory Permissions Modification 
++ [[id:a42f3b8a-c9bf-4bf3-bcd3-b8e8787e087a][Windows File and Directory Permissions Modification]]
++ [[id:106b593b-c226-471a-b783-45eddf980f55][Linux and Mac File and Directory Permissions Modification]]
+

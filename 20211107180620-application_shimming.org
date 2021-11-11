@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       4da603a2-71e9-4319-9f2d-6b1e6971c826
+:END:
+#+title: Application Shimming 
+

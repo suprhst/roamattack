@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       577d6792-f81e-4af8-a982-c9e3053b5b82
+:END:
+#+title: External Defacement 
+

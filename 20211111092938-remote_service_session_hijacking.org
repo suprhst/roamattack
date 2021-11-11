@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d73c600-3105-42c3-aff4-cd7a2914666f
+:END:
+#+title: Remote Service Session Hijacking 
++ [[id:915fe540-4c26-46b6-a5d3-3413315d69ca][SSH HijackinG]]
++ [[id:a9712913-0e9e-4bcc-bbc0-d1676ba2cd27][RDP Hijacking]]

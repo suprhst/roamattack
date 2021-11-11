@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       22a202aa-ff7e-4a18-a4ad-13415bfb700f
+:END:
+#+title: Signed Binary Proxy Execution 
++ [[id:c0d4aec5-0dbb-4fcb-a85d-4a28638c3d00][Compiled HTML File]]
++ [[id:eeda7cb6-64ee-4c06-a733-bbf975d45199][Control Panel]]
++ [[id:b47dea4b-ad88-4904-9acf-21f143b404e5][CMSTP]]
++ [[id:b63e0c55-292d-4128-b423-33171d4fa700][InstallUtil]]
++ [[id:908b9be1-ca40-413f-bd5b-cc2fdd247890][Mshta]]
++ [[id:10224d9a-4c8f-42e4-b358-5dd2eed43b08][Msiexec]]
++ [[id:c0b6d9a2-dd26-46c8-bcac-1b60b9fbdaf1][Odbcconf]]
++ [[id:9eb84791-3e97-4645-8945-cb211376792a][Regsvcs/Regasm]]
++ [[id:56f84e15-487a-48b7-88c3-4c7694604080][Regsvr32]]
++ [[id:cf6e0157-a476-4f74-bae8-4dca30d6557a][Rundll32]]
++ [[id:26cf9b2e-0392-45c0-a896-050f92bf60a6][Verclsid]]
++ [[id:3c3540ef-8fe2-44d0-b902-254b80dd3414][Mavinject]]
++ [[id:9ad2b6a9-59bb-4165-839d-77ecb2fda47d][MMC]]
+

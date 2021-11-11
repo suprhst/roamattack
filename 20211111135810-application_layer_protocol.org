@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c8b2757c-5cca-4027-a9a6-87f64d1c49a3
+:END:
+#+title: Application Layer Protocol 
++ [[id:759ef316-c8c4-4072-8abe-2b44392fa200][Web Protocols]]
++ [[id:0bb8c734-854e-43b3-af83-4782e49abc64][File Transfer Protocols]]
++ [[id:5da089ce-8601-4cba-8c43-5a15376d8575][Mail Protocols]]
++ [[id:d99475a1-7666-4e36-bf2f-f0058e05895b][DNS]]
+

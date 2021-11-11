@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1bfc8908-3f54-4a7e-8379-f44cab0225da
+:END:
+#+title: Hidden Files and Directories 
+

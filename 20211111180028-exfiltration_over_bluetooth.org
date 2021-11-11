@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       671544db-b7ec-4f6b-a7b4-7a62388e8bf8
+:END:
+#+title: Exfiltration Over Bluetooth 
+

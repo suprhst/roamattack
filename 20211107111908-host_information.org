@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       05f0b5c3-bcc9-45b7-a3e7-7d417fa66b0d
+:END:
+#+title: Host Information
++ [[id:554c4c3d-51b9-4199-b87f-8a4fcb193462][Hardware]]
++ [[id:146ab315-d0e3-47a3-b190-e75b7435f21c][Software]]
++ [[id:26ac4d54-9113-4ba1-959d-848f03e754ae][Firmware]]
++ [[id:50ed0993-8f19-4048-9164-c08ecc5bcd59][Client Configs]]

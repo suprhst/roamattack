@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f2bcc150-aef8-4393-86b8-40f9eed72d41
+:END:
+#+title: Stored Data Manipulation 
+

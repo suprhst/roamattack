@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c0b6d9a2-dd26-46c8-bcac-1b60b9fbdaf1
+:END:
+#+title: Odbcconf 
+

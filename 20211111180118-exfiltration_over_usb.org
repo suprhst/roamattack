@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cd072f01-d9b0-4c2d-b173-28adf92fe3db
+:END:
+#+title: Exfiltration over USB 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d0f76e48-93c7-4b7a-8c82-043049a44d03
+:END:
+#+title: DCSync 
+

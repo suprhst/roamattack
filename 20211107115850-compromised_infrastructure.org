@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       65a931a3-d2c7-4594-b07b-e979842ceecd
+:END:
+#+title: Compromised Infrastructure
++ [[id:87240d01-0745-45ff-9c56-f57c54fd2474][C Domains]]
++ [[id:49b03fd1-5590-4a51-bb2f-90bbac7e15b1][C DNS Server]]
++ [[id:df9a67a5-eae6-42b4-8699-3f9ebbc880d0][C Virtual Private Server]]
++ [[id:bf33e800-649f-4442-83d7-5e431f6ad5cb][C Servers]]
++ [[id:ad95b08d-95d0-44af-b63d-1c5e5693307c][C Botnets]]
++ [[id:3f1fdda1-8584-45c2-a928-c41258944057][C Web Services]]

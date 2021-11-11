@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7a9101f0-77b7-49a3-9faf-f460011a07d7
+:END:
+#+title: Replication Through Removable Media 
+

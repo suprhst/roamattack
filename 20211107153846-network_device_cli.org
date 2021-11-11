@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d88ca175-aa92-4b38-9159-07ecbe32e3d4
+:END:
+#+title: Network Device Cli
+

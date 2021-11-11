@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7dd0d8f8-1b44-49b0-93a2-f507a29ef747
+:END:
+#+title: Local Email Collection 
+

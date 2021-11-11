@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e2a4696b-60f9-4420-bc2f-e4689b80dda8
+:END:
+#+title: Clipboard Data 
+

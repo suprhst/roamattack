@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f122e6b8-8c81-4404-9448-beda5f0d9e12
+:END:
+#+title: Abuse Elevation Control Mechanisms
++ [[id:c6f224c1-615e-4465-b1fa-10ea3b8199f1][Setuid and SetgiD]]
++ [[id:1b590c7a-c0f5-4195-9ea4-49c2b0c6e32a][Bypass User Account ControL]]
++ [[id:b2f59489-5d80-42cb-801b-7df88ef5da6c][Sudo and Sudo CachinG]]
++ [[id:68f5a905-9097-4b4c-8b98-5037998bbfc9][Elevated Execution with PrompT]]

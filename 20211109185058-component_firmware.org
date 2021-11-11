@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       913e37fe-3371-4beb-bb2c-237acc24fc86
+:END:
+#+title: Component FirmwarE
+

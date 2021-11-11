@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a4630da0-83d0-4035-9690-fcb066bc1828
+:END:
+#+title: Bash History 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b6ea3875-f4b8-4b2f-8cfa-3ac7097298a8
+:END:
+#+title: /etc/passwd and /etc/shadow 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a98d2477-0827-46c3-97bb-1e4d9cf1abe8
+:END:
+#+title: Protocol Impersonation
+

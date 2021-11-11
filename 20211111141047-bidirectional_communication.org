@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7c51f819-f10a-496e-84eb-d0af71355f29
+:END:
+#+title: Bidirectional Communication 
+

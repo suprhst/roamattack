@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c5a9e016-95af-4175-9452-d5c90164f0a3
+:END:
+#+title: DNS
+

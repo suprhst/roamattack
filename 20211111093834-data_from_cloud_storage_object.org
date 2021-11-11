@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       980be4a6-4689-4bc6-994f-be836d99be08
+:END:
+#+title:        Data from Cloud Storage Object 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fdad6060-fc61-490a-a48a-7a468927c9f3
+:END:
+#+title: Executable Installer File Permissions WeaknesS
+

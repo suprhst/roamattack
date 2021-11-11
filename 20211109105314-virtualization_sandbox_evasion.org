@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8e8f951a-4a68-42c3-8672-a18c6de438e6
+:END:
+#+title:        Virtualization/Sandbox Evasion 
++ [[id:04e22964-e54f-475b-bcd4-e07b9b115eda][System Checks]]
++ [[id:ee16c8f8-049e-4c88-9ff1-ebb4c84faebd][User Activity Based Checks]]
++ [[id:71ab7614-b28a-4640-84e1-eb212ba792ae][Time Based Evasion]]

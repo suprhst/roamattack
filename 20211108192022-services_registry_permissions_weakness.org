@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       cc133655-80f1-419b-bf62-1c33f9964fee
+:END:
+#+title: Services Registry Permissions WeaknesS
+

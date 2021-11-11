@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       072f8d19-548f-4e1c-93bd-fb43bc3ce6e6
+:END:
+#+title: Compromise Hardware Supply Chain 
+

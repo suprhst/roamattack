@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       03c64fb2-8510-4fb3-8c0c-be144a20e232
+:END:
+#+title:  Windows Management Instrumentation Event SubscriptioN
+

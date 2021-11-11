@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       9d4d185b-ed03-4471-9f52-778321cf3edf
+:END:
+#+title: Deobfuscate/Decode Files or Information 
+

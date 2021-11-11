@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       8e404a90-a7d3-4f26-b044-2a6fb3ad6faa
+:END:
+#+title:        VNC 
+

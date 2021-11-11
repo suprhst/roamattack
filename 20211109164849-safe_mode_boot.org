@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e8aae74b-4207-4277-9896-778cc8f2d934
+:END:
+#+title: Safe Mode Boot 
+

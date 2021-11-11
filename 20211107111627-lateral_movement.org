@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6837127a-ee42-4a08-8e21-2eab80a45f13
+:END:
+#+title: Lateral Movement
++ [[id:c45e6a13-e907-4711-8cc0-2b5655633dc5][Exploitation of Remote Services]]
++ [[id:583b3a76-f590-469c-be5b-d7f8a16388e3][Internal Spearphishing]]
++ [[id:a3a807af-3185-4f29-948f-4a86345a90db][Lateral Tool Transfer]]
++ [[id:2d73c600-3105-42c3-aff4-cd7a2914666f][Remote Service Session Hijacking]]
++ [[id:6ba05e2a-82b5-47fb-bb68-27563598070b][Remote ServiceS]]
++ [[id:7a9101f0-77b7-49a3-9faf-f460011a07d7][Replication Through Removable Media]]
++ [[id:a7331b08-6131-4a4d-b413-567a88ed95b0][Software Deployment ToolS]]
++ [[id:3fda76ee-04dc-4a71-b162-9ea6484cee0f][Taint Shared Content]]
++ [[id:2de85d82-b86b-4363-ab09-692f5ae58cf4][Use Alternate Authentication MateriaL]]

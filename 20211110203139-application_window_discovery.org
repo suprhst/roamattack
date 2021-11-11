@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       42c54342-0501-4da7-9288-62d48c3b6859
+:END:
+#+title: Application Window Discovery 
+

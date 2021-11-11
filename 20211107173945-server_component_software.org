@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e5f32e92-9b6b-4119-8ea8-59f7adfd7535
+:END:
+#+title: Server Component Software
++ [[id:d46e986a-9256-48a3-b7bb-f2769220333a][SQL Stored Procedures]]
++ [[id:ddb1ed68-7a56-47c0-867a-da6cdd95ec30][Transport Agent]]
++ [[id:d5632894-b1d5-47b4-aa38-d84ddd97ffb5][Web Shell]]
++ [[id:ff77fb21-52a3-422c-9032-49507a6bf215][IIS Components]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f117d012-b97d-490e-a1ea-293ad6b11465
+:END:
+#+title: LSASS Memory 
+

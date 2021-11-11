@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a480a1dd-abdd-4a13-91ea-111752637501
+:END:
+#+title: Install Digital Certificates
+

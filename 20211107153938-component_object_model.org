@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e18352a4-e00c-4981-9369-fc33f3005ba0
+:END:
+#+title: Component Object Model
+

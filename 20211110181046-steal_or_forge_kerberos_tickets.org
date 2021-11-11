@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       48e6d0dc-9dd9-4cf1-a51f-a5b641545dce
+:END:
+#+title:        Steal or Forge Kerberos Tickets 
++ [[id:d2171252-93b2-414f-a85f-a58836f52704][Golden Ticket]]
++ [[id:d3f83558-e136-4801-9f71-9bc87245743a][Silver Ticket]]
++ [[id:e51ab94f-912e-4494-a07a-ea3a2c3c9231][Kerberoasting]]
++ [[id:f3562a1b-0264-404f-98c7-1f431b7683e8][AS-REP Roasting]]

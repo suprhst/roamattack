@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       535db67c-c99a-4ddc-bdc4-c3333c610458
+:END:
+#+title: Outlook Rules 
+

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6a6287cd-e6c0-470f-906d-9a913c5cf996
+:END:
+#+title: ProxY
++ [[id:1d3dd386-db25-4d4c-882b-05880d3bf1f1][Internal Proxy]]
++ [[id:d94a71b3-597f-4293-a74f-8c2a548621ee][External Proxy]]
++ [[id:c2a360ac-a0fe-4fd0-8d24-e0d26093cbe0][Multi-hop Proxy]]
++ [[id:f9aa19d7-63a6-4c86-8e2b-2221f318ab5e][Domain Fronting]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c1a69de3-3364-46cd-a0b0-cceeda97ace8
+:END:
+#+title: Web ServicE 
++ [[id:7dfb6196-d273-4138-bd21-6ad583d680d5][Dead Drop Resolver]]
++ [[id:7c51f819-f10a-496e-84eb-d0af71355f29][Bidirectional Communication]]
++ [[id:52d88341-f7e1-4bc2-a400-68214e7c3299][One-Way Communication]]

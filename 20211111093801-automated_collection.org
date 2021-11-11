@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2e422b13-9d56-4545-b302-9fc3a5337b25
+:END:
+#+title: Automated Collection 
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f6059678-b0fb-49ab-a961-f30e01fae33d
+:END:
+#+title: Automated Exfiltration 
++ [[id:26717a70-1e45-4a37-8522-323491e8263e][Traffic Duplication]]

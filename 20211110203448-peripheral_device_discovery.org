@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5c1a1765-c311-4f5b-9c6a-cdeb42278eed
+:END:
+#+title: Peripheral Device Discovery 
+

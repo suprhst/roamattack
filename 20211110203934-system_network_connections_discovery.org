@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d8aeb220-9817-449a-81c2-8fed2c8809bb
+:END:
+#+title: System Network Connections Discovery
+

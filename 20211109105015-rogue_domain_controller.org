@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b063e803-cec1-4095-9234-8df9b1268584
+:END:
+#+title: Rogue Domain Controller 
+

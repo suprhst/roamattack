@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       61c6d6b8-ad2b-4c92-9bdb-a414209af76f
+:END:
+#+title: XDG Autostart EntrieS
+

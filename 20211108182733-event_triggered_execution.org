@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9343e633-9f58-4b59-8043-6976ffc329a6
+:END:
+#+title: Event Triggered ExecutioN
++ [[id:d3356576-3627-4542-a7f7-358dd8e6de4d][Change Default File AssociatioN]]
++ [[id:3395a148-581d-4eaf-90cd-355a7bd06549][ScreensaveR]]
++ [[id:03c64fb2-8510-4fb3-8c0c-be144a20e232][Windows Management Instrumentation Event SubscriptioN]]
++ [[id:aaa822bb-2508-47bf-bdf7-a9d62da9d73d][Unix Shell Configuration ModificatioN]]
++ [[id:547426d9-e576-48ca-a7e0-a4c2627d4620][TraP]]
++ [[id:26ceca61-0004-48fb-9903-e7aabcb34e47][LC_LOAD_DYLIB AdditioN]]
++ [[id:fbe994a1-ca3b-434a-9ead-2f287070f532][Netsh HelpeR DLL]]
++ [[id:57ac0ec0-7dad-464b-94b5-8d902abecc45][Accessibility FeatureS]]
++ [[id:804e4edc-1f7d-4ff2-b069-ef3713345e81][AppCert DLLS]]
++ [[id:230db37c-c5d0-4df9-a3cc-93139d679109][AppInit DLLS]]
++ [[id:6d6a9749-661f-43b5-aaaa-48c3c47e22a8][Application ShimminG]]
++ [[id:c8c800e5-f1c9-4c5b-b1a9-15732b4069e2][Image File Execution Options Injection]]
++ [[id:6da3b915-cf8d-4142-ac2b-f003d28d7659][PowerShell ProfilE]]
++ [[id:45361cb0-7d95-4fc6-afbf-17ca0ed816e4][Emond]]
++ [[id:7a95ab9a-d145-4099-a5a2-32da2e1f1339][Component Object Model HijackinG]]

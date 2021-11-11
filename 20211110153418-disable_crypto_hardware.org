@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2521238b-0880-4e61-8e8f-dd228059679b
+:END:
+#+title: Disable Crypto Hardware 
+

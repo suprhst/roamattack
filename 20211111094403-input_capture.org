@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cc580606-52f4-410b-859d-9aac73cb7968
+:END:
+#+title: Input CaptuRe
++ [[id:30af46da-7791-4b1b-911a-28176ce0e3a7][KeylogginG]]
++ [[id:78f5e199-7ab8-4112-aa59-d5fc4a049218][GUI Input CapturE]]
++ [[id:1997de72-a792-4d50-8a19-29d91e70593b][Web Portal CapturE]]
++ [[id:6bdec75a-7c36-47de-925c-29e55ff35922][Credential API HookinG]]

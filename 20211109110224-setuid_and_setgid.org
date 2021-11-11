@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c6f224c1-615e-4465-b1fa-10ea3b8199f1
+:END:
+#+title: Setuid and SetgiD 
+

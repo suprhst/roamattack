@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bccd42b6-a67d-455f-9150-77ae5ca49dbb
+:END:
+#+title: Dynamic Resolution 
++ [[id:04817493-1abd-466d-8d15-1a2df0f0e39c][Fast Flux DNS]]
++ [[id:6154ee35-57a3-44e1-b826-79604759e49e][Domain Generation Algorithms]]
++ [[id:c4ac82ad-376d-4cda-bfc8-bec81d2abd27][DNS Calculation]]

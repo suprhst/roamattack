@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0dbf22dd-3ada-4b74-97fe-02eb36880b2d
+:END:
+#+title: XDG Autostart Entries 
+

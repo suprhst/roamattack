@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       2de85d82-b86b-4363-ab09-692f5ae58cf4
+:END:
+#+title: Use Alternate Authentication MateriaL
++ [[id:0150f7d9-a154-40de-98bf-c3e96e2a0e3c][Application Access TokEn]]
++ [[id:ca437599-a960-4aac-b4c2-419f07db789f][Pass the HasH]]
++ [[id:cb7483c0-8f40-44fb-a716-9ac78a1d1342][Pass the Ticket]]
++ [[id:19c8c6fe-abfd-478c-af1e-4237cae413b7][Web Session CookiE]]

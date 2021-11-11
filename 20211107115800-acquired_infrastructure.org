@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ec7756ee-f366-4950-97f6-ea33f4d249b4
+:END:
+#+title: Acquired Infrastructure
++ [[id:1c93ebf6-5a01-4a3a-b9fe-33f0bf218bc2][Domains]]
++ [[id:8aec9a6a-9fe7-4a42-a2e4-aafc1ffd02a0][DNS Server]]
++ [[id:0c54e86a-d0c8-47dd-81ee-dbcc3549c2fa][Virtual Private Server]]
++ [[id:076256b9-0a5f-4f1d-8055-832535b040ab][Servers]]
++ [[id:aea07108-c386-47c8-84f8-bfcf185bdbad][Botnets]]
++ [[id:ac2e20dc-a5e1-4636-953f-0bdbdfd77204][Web Services]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       dc3be885-1a15-4779-9cf6-f5b4a47f234a
+:END:
+#+title: Group Policy Discovery 
+

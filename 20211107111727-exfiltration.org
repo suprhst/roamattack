@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ca32e4ed-51c8-466c-98b7-3940b7b3d24e
+:END:
+#+title: Exfiltration
++ [[id:f6059678-b0fb-49ab-a961-f30e01fae33d][Automated Exfiltration]]
++ [[id:5b6eb5a8-a9eb-4e08-bf60-6e5bb3e1b627][Data Transfer Size Limits]]
++ [[id:d00e4a2f-ec59-4a3e-aa6f-171002fb4711][Exfiltration Over Alternative Protocol]]
++ [[id:b6106899-b4b4-4d9c-9799-05ebfe78cf92][Exfiltration Over C2 Channel]]
++ [[id:13a12007-9132-42a9-8599-34d1f1230d5a][Exfiltration Over Other Network Medium]]
++ [[id:b7fa5ecb-afcf-4b36-a565-53da2badd915][Exfiltration Over Physical Medium]]
++ [[id:890c9d9b-b463-4e43-a920-e8952b48ab40][Exfiltration Over Web Service]]
++ [[id:70e3f211-db9a-4b64-9c28-0aa881b48de6][Scheduled Transfer]]
++ [[id:dda53073-a114-4dd2-98c8-e58264f72f16][Transfer Data to Cloud Account]]

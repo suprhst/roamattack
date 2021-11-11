@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       de01702c-06d8-4fe4-ae11-9680c379d4eb
+:END:
+#+title: Non-Standard Encoding 
+

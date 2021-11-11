@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       41e0f898-0eca-486c-99f5-cd31c257ac72
+:END:
+#+title: Windows Remote Management 
+

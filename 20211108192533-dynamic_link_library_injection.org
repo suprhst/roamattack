@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1221f65d-66cf-494d-8169-f183b9b1fd73
+:END:
+#+title: Dynamic-link Library Injection 
+

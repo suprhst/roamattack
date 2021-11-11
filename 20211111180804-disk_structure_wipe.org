@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5ceaa236-349a-4352-ab5b-74cdde6b15ac
+:END:
+#+title: Disk Structure Wipe 
+

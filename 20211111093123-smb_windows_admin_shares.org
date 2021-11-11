@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       62beb120-bf86-4a36-974f-50042084f671
+:END:
+#+title: SMB/Windows Admin Shares 
+
